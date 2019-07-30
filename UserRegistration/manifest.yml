@@ -1,0 +1,7 @@
+applications:
+- name: userRegistrationService
+services:
+- mysql
+- eureka
+memory: 750M
+  

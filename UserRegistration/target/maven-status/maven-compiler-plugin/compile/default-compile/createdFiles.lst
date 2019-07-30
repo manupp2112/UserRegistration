@@ -1,0 +1,11 @@
+com\admin\register\model\AdminLogin.class
+com\admin\register\controller\UserRegistrationController.class
+com\admin\register\model\RegistrationPage.class
+com\admin\register\repository\AdminLoginRepository.class
+com\admin\register\service\UserRegistrationService.class
+com\admin\register\rowmapper\AdminLoginRowmapper.class
+com\admin\register\controller\AdminLoginController.class
+com\admin\register\rowmapper\UserRegistrationRowmapper.class
+com\admin\register\service\AdminLoginService.class
+com\admin\register\repository\UserRegistrationRepository.class
+com\admin\register\UserRegistrationApplication.class
